@@ -18,7 +18,7 @@ go to parent directory. and run **node cars.js** on console.
 
 ## Apps Preview
 
-Create databse and table.
+**Create databse and table.**
 <br/>
 ![1](https://user-images.githubusercontent.com/33762836/201003271-f1f7a2a6-e1a9-4e92-9a40-f62f7e6ccd32.PNG)
 <br/>
@@ -26,25 +26,25 @@ Create databse and table.
 <br/>
 <br/>
 
-Create cars data.
+**Create cars data.**
 <br/>
 ![4](https://user-images.githubusercontent.com/33762836/201003278-6c5481dc-cd48-45c7-9d3b-f6bd2b27f1bb.PNG)
 <br/>
 <br/>
 
-Get cars data by id.
+**Get cars data by id.**
 <br/>
 ![5](https://user-images.githubusercontent.com/33762836/201003279-210108f9-3647-402f-91ed-1f5684abae22.PNG)
 <br/>
 <br/>
 
-Get all cars data.
+**Get all cars data.**
 <br/>
 ![6](https://user-images.githubusercontent.com/33762836/201003282-bde34a8e-9801-4f4b-b270-7292d747bb96.PNG)
 <br/>
 <br/>
 
-Update cars data.
+**Update cars data.**
 <br/>
 ![7](https://user-images.githubusercontent.com/33762836/201003286-bba420e4-a6ef-4d83-b065-24ea17c05229.PNG)
 <br/>
@@ -52,7 +52,7 @@ Update cars data.
 <br/>
 <br/>
 
-Delete cars data by id.
+**Delete cars data by id.**
 <br/>
 ![9](https://user-images.githubusercontent.com/33762836/201003292-f08ea3ff-6e6f-4b47-8b34-15336c687576.PNG)
 <br/>
@@ -60,7 +60,7 @@ Delete cars data by id.
 <br/>
 <br/>
 
-Delete all cars data.
+**Delete all cars data.**
 <br/>
 ![11](https://user-images.githubusercontent.com/33762836/201003299-0e490739-0185-4d40-a9ec-e44beb6441c4.PNG)
 <br/>
