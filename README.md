@@ -14,7 +14,7 @@ Technology used for this project:<br/>
 go to parent directory. and run **node cars.js** on console.
 <br/>
 <br/>
-![3](https://user-images.githubusercontent.com/33762836/201003276-71eaa13b-6e73-422c-b22e-e610b0e78395.PNG)
+![3](https://user-images.githubusercontent.com/33762836/201019262-3ffe8fad-dfde-48e1-949b-7cfcf9384bba.PNG)
 
 ## Apps Preview
 
